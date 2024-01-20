@@ -1,5 +1,5 @@
 ## Overview
-This repository contains implementations of the Mondrian Algorithm, a method for partitioning data in a way that is particularly useful for various analytical purposes. The repository showcases two main versions of the algorithm: one using random data and the other applying it to a specific dataset, ocd_patient_dataset.csv.
+This repository contains implementations of the Mondrian Algorithm, a method for partitioning data in a way that is particularly useful for various analytical purposes. The repository showcases two main versions of the algorithm: one using random data and the other applying it to a specific dataset.
 
 ## Files in the Repository
 Jupyter Notebooks
